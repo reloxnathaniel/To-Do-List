@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Your local version
-=======
-GitHub version
->>>>>>> main
+This is my local README and GitHub README combined.
